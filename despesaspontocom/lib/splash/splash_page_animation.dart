@@ -16,7 +16,7 @@ class SplashPageAnimation {
         scaleAnimation = Tween<double>(begin: 0.5, end: 1.0).animate(
           CurvedAnimation(
             parent: controller,
-            curve: Curves.easeInOut,
+            curve: Curves.easeInOut,dsdsdsd
           ),
         );
 }

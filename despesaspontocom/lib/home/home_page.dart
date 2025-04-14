@@ -3,7 +3,7 @@ import 'package:despesaspontocom/components/gradient_background.dart';
 import 'package:flutter/material.dart';
 import 'package:despesaspontocom/home/home_body.dart';
 import 'package:despesaspontocom/home/home_drawer.dart';
-import 'package:despesaspontocom/commom/app_colors.dart';
+import 'package:despesaspontocom/common/app_colors.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

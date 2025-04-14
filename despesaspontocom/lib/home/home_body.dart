@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:despesaspontocom/commom/app_colors.dart';
-import 'package:despesaspontocom/commom/app_text_styles.dart';
+import 'package:despesaspontocom/common/app_colors.dart';
+import 'package:despesaspontocom/common/app_text_styles.dart';
 
 class HomeBody extends StatelessWidget {
   final List<Map<String, dynamic>> expenses;

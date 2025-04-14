@@ -1,6 +1,6 @@
 import 'package:despesaspontocom/home/home_page.dart';
 import 'package:flutter/material.dart';
-import 'package:despesaspontocom/commom/app_colors.dart';
+import 'package:despesaspontocom/common/app_colors.dart';
 
 
 class SplashPage extends StatefulWidget {

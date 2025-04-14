@@ -1,5 +1,5 @@
-import 'package:despesaspontocom/commom/app_colors.dart';
-import 'package:despesaspontocom/commom/app_transitions.dart';
+import 'package:despesaspontocom/common/app_colors.dart';
+import 'package:despesaspontocom/common/app_transitions.dart';
 import 'package:despesaspontocom/home/home_page.dart';
 import 'package:despesaspontocom/splash/splash_page.dart';
 import 'package:flutter/material.dart';
